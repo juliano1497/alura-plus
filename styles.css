@@ -28,29 +28,29 @@ body {
 }
 
 .container__titulo {
-    font-size: 10px;
+    font-size: 16px;
     font-weight: 700;
     text-align: center;
     margin: 1em;
-    max-width: 220px;
+    max-width: 250px;
 }
 
 .container__aviso {
-    font-size: 12px;
+    font-size: 14px;
     color: var(--cinza-secundario);
-    max-width: 220px;
+    max-width: 250px;
     text-align: center;
     margin: 1em;
 }
 
 .container__imagem {
-    width: 40vw;
+    width: 200px;
     left: 50px;
     position: relative;
 }
 
 .secundario__imagem {
-    width: 40%;
+    width: 200px;
     padding: 1em;
 }
 
@@ -67,7 +67,7 @@ body {
 }
 
 .container__botao {
-    left: 30px;
+    left: 10px;
     text-align: center;
     position: relative;
     background-color: var(--botao-azul);
@@ -78,7 +78,6 @@ body {
     text-decoration: none;
     margin: 1em 1em;
     max-width: 220px;
-    width: 50vw;
 }
 
 .dispositivos__titulo {
